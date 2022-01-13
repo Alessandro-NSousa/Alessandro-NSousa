@@ -1,7 +1,7 @@
 ### Olá me Chamo Alessandro Sousa 👋
 
-- 🔭 Atualmente procuro por uma oportunidade de estágio.
-- 🌱 Eestou aprendendo a linguagem Java.
+- 🔭 Atualmente procuro por uma vaga de estágio.
+- 🌱 Eestou aprendendo a linguagem Java e C#.
 
 <div align="center">
   <a href="https://github.com/Alessandro-Nsousa">
