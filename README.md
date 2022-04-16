@@ -1,7 +1,8 @@
 ### Olá me Chamo Alessandro Sousa 👋
 
-- 🔭 Atualmente procuro por uma vaga de estágio.
-- 🌱 Eestou aprendendo a linguagem Java e C#.
+- 🔭 Sou graduando do 5° período do curso de Sistemas de Informação.
+- Atualmente estou aprendendo a linguagem Java na faculdade juntamente com banco de dados
+- utilizando os SGBDS Postegree e Mysql, e tenho me interessado pela linguagem C#.
 
 <div align="center">
   <a href="https://github.com/Alessandro-Nsousa">
