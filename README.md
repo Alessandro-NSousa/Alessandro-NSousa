@@ -1,6 +1,6 @@
 ### Olá me Chamo Alessandro Sousa 👋
 
-- 🔭 Sou graduando do 5° período do curso de Sistemas de Informação.
+- 🔭 Sou graduando do 7° período do curso de Sistemas de Informação.
 - minha paixão pela programação se iniciou desde meu contato com a disciplina de algoritmos
 - na qual me permitiu conhecer a origem dos códigos, dessa forma busco o crescimento dentro desse mundo
 - além de buscar boas oportunidades de poder contribuir em grandes projetos.
